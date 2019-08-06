@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on CryptoYC</title>
+    <link>https://cryptoyc.github.io/page/</link>
+    <description>Recent content in Pages on CryptoYC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>contact@cryptoyc.com (CryptoYC)</managingEditor>
+    <webMaster>contact@cryptoyc.com (CryptoYC)</webMaster>
+    <lastBuildDate>Fri, 02 Aug 2019 16:06:29 +0800</lastBuildDate>
+    
+	<atom:link href="https://cryptoyc.github.io/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://cryptoyc.github.io/page/about/</link>
+      <pubDate>Fri, 02 Aug 2019 16:06:29 +0800</pubDate>
+      <author>contact@cryptoyc.com (CryptoYC)</author>
+      <guid>https://cryptoyc.github.io/page/about/</guid>
+      <description>CryptoYC is a Blockchain investment and incubation company . We developed CryptoYC Benchmark to carry out Technical Due Diligence for Blockchain projects and also provide Blockchian business consulting services for institutions and investors.
+Benchmark is the world&amp;rsquo;s FIRST Blockchain Technical Due Diligence system. It provides Blockchian business consulting services based on the output of Technical Specifications. Provide the value informations to institutions and investors in order to solve the core problem for value investing in Blockchain.</description>
+    </item>
+    
+  </channel>
+</rss>
